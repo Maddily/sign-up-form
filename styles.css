@@ -59,4 +59,18 @@ body {
 	display: flex;
 	flex-direction: column;
 	flex: 1.5;
+
+	header {
+		flex: 1.2;
+		padding: 100px 90px 40px 40px;
+		font-weight: bold;
+	}
+
+	section {
+		flex: 1;
+	}
+
+	footer {
+		flex: 1.1;
+	}
 }
