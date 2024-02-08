@@ -21,5 +21,11 @@ body {
 		background: rgba(0, 0, 0, 40%);
 		height: 140px;
 		margin-top: 35%;
+
+		span {
+			font-family: "Norse Bold";
+			color: white;
+			font-size: 5.5rem;
+		}
 	}
 }
