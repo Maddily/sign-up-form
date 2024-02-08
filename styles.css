@@ -1,3 +1,8 @@
+body {
+	margin: 0;
+	display: flex;
+}
+
 .left_side {
 	background: url("images/guillaume-briard-lSXpV8bDeMA-unsplash.jpg");
 	background-size: cover;
