@@ -21,7 +21,7 @@ body {
 .left_side {
 	background: url("images/guillaume-briard-lSXpV8bDeMA-unsplash.jpg");
 	background-size: cover;
-	width: 33%;
+	flex: 1;
 	height: 100%;
 	display: flex;
 	flex-direction: column;
