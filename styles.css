@@ -42,4 +42,16 @@ body {
 			font-size: 5.5rem;
 		}
 	}
+
+	.photo_credit {
+		margin-bottom: 15px;
+		font-size: 0.9rem;
+		background: rgba(0, 0, 0, 40%);
+		width: fit-content;
+		align-self: center;
+		color: var(--left_font_color);
+		a {
+			color: var(--left_font_color);
+		}
+	}
 }
