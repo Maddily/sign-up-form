@@ -139,6 +139,7 @@ form {
 			color: var(--left_font_color);
 			margin-bottom: 15px;
 			font-weight: 600;
+			cursor: pointer;
 		}
 
 		p {
