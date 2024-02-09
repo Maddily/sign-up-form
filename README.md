@@ -31,4 +31,4 @@ This is a sign-up form for an imaginary service.
 
 ## Acknowledgments
 
-- Background photo by <a href="https://unsplash.com/@mister_guiz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Guillaume Briard</a> on <a href="https://unsplash.com/photos/closeup-photo-of-rocky-mountain-under-blue-and-white-sky-lSXpV8bDeMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Background photo by <a href="https://unsplash.com/@mischievous_penguins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Casey Horner</a> on <a href="https://unsplash.com/photos/gray-mountain-in-landscape-photography-G2jAOMGGlPE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Unsplash</a>
