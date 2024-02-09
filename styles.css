@@ -124,6 +124,16 @@ body {
 			margin-bottom: 15px;
 			font-weight: 600;
 		}
+
+		p {
+			font-size: 0.9rem;
+
+			a {
+				color: #008ca2;
+				font-weight: 600;
+				text-decoration: none;
+			}
+		}
 	}
 
 	header, footer {
