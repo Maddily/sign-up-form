@@ -19,7 +19,7 @@ body {
 }
 
 .left_side {
-	background: url("images/guillaume-briard-lSXpV8bDeMA-unsplash.jpg");
+	background: url("images/casey-horner-G2jAOMGGlPE-unsplash.jpg");
 	background-size: cover;
 	flex: 1;
 	height: 100%;
@@ -45,9 +45,7 @@ body {
 	.photo_credit {
 		margin-bottom: 15px;
 		font-size: 0.9rem;
-		background: rgba(0, 0, 0, 40%);
-		width: fit-content;
-		align-self: center;
+		text-align: center;
 		color: var(--left_font_color);
 		a {
 			color: var(--left_font_color);
