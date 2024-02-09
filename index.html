@@ -20,7 +20,7 @@
 			Photo by <a href="https://unsplash.com/@mischievous_penguins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Casey Horner</a> on <a href="https://unsplash.com/photos/gray-mountain-in-landscape-photography-G2jAOMGGlPE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Unsplash</a>
 		</div>
 	</article>
-	<article class="form">
+	<form>
 		<header>
 			<p>
 				This is not a real online service! 
@@ -37,31 +37,31 @@
 				<div class="row">
 					<div class="field">
 						<label for="first_name">first name</label>
-						<input type="text" name="first_name" id="first_name">
+						<input type="text" name="first_name" id="first_name" required>
 					</div>
 					<div class="field">
 						<label for="last_name">last name</label>
-						<input type="text" name="last_name" id="last_name">
+						<input type="text" name="last_name" id="last_name" required>
 					</div>
 				</div>
 				<div class="row">
 					<div class="field">
 						<label for="email">email</label>
-						<input type="text" name="email" id="email">
+						<input type="text" name="email" id="email" required>
 					</div>
 					<div class="field">
 						<label for="phone">phone number</label>
-						<input type="tel" name="phone" id="phone">
+						<input type="tel" name="phone" id="phone" required>
 					</div>
 				</div>
 				<div class="row">
 					<div class="field">
 						<label for="password">password</label>
-						<input type="password" name="password" id="password">
+						<input type="password" name="password" id="password" required>
 					</div>
 					<div class="field">
 						<label for="confirm_password">confirm password</label>
-						<input type="password" name="confirm_password" id="confirm_password">
+						<input type="password" name="confirm_password" id="confirm_password" required>
 					</div>
 				</div>
 			</div>
@@ -70,6 +70,6 @@
 			<button type="submit">Create Account</button>
 			<p>Already have an account? <a href="#">Log in</a></p>
 		</footer>
-	</article>
+	</form>
 </body>
 </html>
