@@ -32,13 +32,18 @@ body {
 		align-items: center;
 		justify-content: center;
 		background: rgba(0, 0, 0, 40%);
-		height: 140px;
-		margin-top: 190px;
+		height: 8.75rem;
+		margin-top: 12rem;
+
+		img {
+			width: 5.5rem;
+			height: 7.375rem;
+		}
 
 		span {
 			font-family: "Norse Bold";
 			color: var(--left_font_color);
-			font-size: 5.5rem;
+			font-size: 5rem;
 		}
 	}
 
