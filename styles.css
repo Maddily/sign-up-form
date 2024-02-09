@@ -112,6 +112,18 @@ body {
 
 	footer {
 		flex: 1;
+		padding: 30px 0 0 40px;
+
+		button {
+			appearance: none;
+			border: none;
+			background-color: #008ca2;
+			border-radius: 4px;
+			padding: 0.6rem 2.1rem;
+			color: var(--left_font_color);
+			margin-bottom: 15px;
+			font-weight: 600;
+		}
 	}
 
 	header, footer {
