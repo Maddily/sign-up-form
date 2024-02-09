@@ -1,5 +1,6 @@
 :root {
 	--left_font_color: white;
+	--shadow: #e0e1e2;
 }
 
 * {
@@ -78,7 +79,7 @@ form {
 		flex: 0.7;
 		padding-left: 40px;
 		border-top: 1px solid #f7f8fa;
-		box-shadow: 3px 5px 6px #e0e1e2;
+		box-shadow: 3px 5px 6px var(--shadow);
 		z-index: 1;
 
 		h1 {
@@ -105,6 +106,12 @@ form {
 						height: 1.5rem;
 						width: 200px;
 						padding-left: 10px;
+					}
+
+					input:focus {
+						outline: none;
+						border-color: #1d4ed8;
+						box-shadow: 2px 3px 3px var(--shadow);
 					}
 				}
 			}
