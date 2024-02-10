@@ -40,6 +40,7 @@ body {
 		background: rgba(0, 0, 0, 40%);
 		height: 8.75rem;
 		margin-top: 12rem;
+		padding: 1rem 2rem;
 
 		img {
 			width: 5.5rem;
@@ -176,6 +177,27 @@ form {
 
 @media only screen and (max-width: 790px) {
 	html {
-		font-size: 13px;;
+		font-size: 13px;
+	}
+
+	header {
+		flex: 1;
+	}
+
+	section {
+		flex: 2;
+
+		.fields {
+			padding: 2rem 0;
+
+			.row {
+				gap: 1rem !important;
+				flex-direction: column;
+			}
+		}
+	}
+
+	footer {
+		flex: 1;
 	}
 }
