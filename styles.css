@@ -114,6 +114,10 @@ form {
 						border-color: #1d4ed8;
 						box-shadow: 2px 3px 3px var(--shadow);
 					}
+
+					.error {
+						border-color: #bd2a2a;
+					}
 				}
 			}
 		}
