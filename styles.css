@@ -118,6 +118,11 @@ form {
 					.error {
 						border-color: #bd2a2a;
 					}
+
+					.error_message {
+						color: #bd2a2a;
+						font-size: 13px;
+					}
 				}
 			}
 		}
